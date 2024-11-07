@@ -73,9 +73,9 @@ Before running the application, ensure you have the following installed:
 - **Request Body**:
   ```json
   {
-    "fname": "John",
-    "lname": "Doe",
-    "email": "john.doe@example.com",
+    "fname": "Krishchal",
+    "lname": "Regmi",
+    "email": "krish@example.com",
     "password": "password123"
   }
   ```
@@ -85,9 +85,9 @@ Before running the application, ensure you have the following installed:
     "msg": "Successfully Added",
     "savedData": {
       "_id": "12345",
-      "fname": "John",
-      "lname": "Doe",
-      "email": "john.doe@example.com",
+      "fname": "Krishchal",
+      "lname": "Regmi",
+      "email": "krish@example.com",
       "password": "password123",
       "createdAt": "2024-01-01T00:00:00Z",
       "updatedAt": "2024-01-01T00:00:00Z"
@@ -104,18 +104,18 @@ Before running the application, ensure you have the following installed:
     "userData": [
       {
         "_id": "12345",
-        "fname": "John",
-        "lname": "Doe",
-        "email": "john.doe@example.com",
+        "fname": "Krishchal",
+        "lname": "Regmi",
+        "email": "krish@example.com",
         "password": "password123",
         "createdAt": "2024-01-01T00:00:00Z",
         "updatedAt": "2024-01-01T00:00:00Z"
       },
       {
         "_id": "67890",
-        "fname": "Jane",
-        "lname": "Doe",
-        "email": "jane.doe@example.com",
+        "fname": "krish",
+        "lname": "Reg",
+        "email": "krish.reg@example.com",
         "password": "password456",
         "createdAt": "2024-01-02T00:00:00Z",
         "updatedAt": "2024-01-02T00:00:00Z"
@@ -132,9 +132,9 @@ Before running the application, ensure you have the following installed:
   {
     "userData": {
       "_id": "12345",
-      "fname": "John",
-      "lname": "Doe",
-      "email": "john.doe@example.com",
+      "fname": "Krishchal",
+      "lname": "Regmi",
+      "email": "krish@example.com",
       "password": "password123",
       "createdAt": "2024-01-01T00:00:00Z",
       "updatedAt": "2024-01-01T00:00:00Z"
@@ -192,7 +192,3 @@ Before running the application, ensure you have the following installed:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)  
-Project Link: [MERN Stack CRUD API Repository](<repository-url>)
