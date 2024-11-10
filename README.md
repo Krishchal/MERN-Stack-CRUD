@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **MERN Stack CRUD API** is a robust backend solution that allows you to manage user data through Create, Read, Update, and Delete (CRUD) operations. It is built using the **MERN stack**—MongoDB, Express.js, React, and Node.js. This project demonstrates how to build a backend API that connects to a **MongoDB** database to store and manipulate user information. It supports basic user management operations such as creating a new user, retrieving user data, updating user details, and deleting users.
+The **MERN Stack CRUD API** is a robust backend solution that allows you to manage user data through Create, Read, Update, and Delete (CRUD) operations. It is built using the **MERN stack**—MongoDB, Express.js, React, and Node.js. This project demonstrates how to build a backend API that connects to a **MongoDB** database to store and manipulate user information. It supports basic user management operations such as creating a new user, retrieving user data, updating user details, and deleting users ..
 
 This API provides a foundation for building full-stack applications with **React** on the frontend, interacting with a RESTful API built using **Express** and **Node.js**.
 
